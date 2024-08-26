@@ -1,8 +1,1 @@
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Custom CSS
-sass:
-  sass_dir: _sass
+theme: jekyll-theme-hacker
