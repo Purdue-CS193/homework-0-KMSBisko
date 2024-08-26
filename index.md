@@ -1,3 +1,11 @@
+# Vu Minh Triet's First CS193 Homework
+
+## My favourite thing about this course:
+- Teaching things that other class assume I know
+- Slow(ish) pace and decently easy to follow
+- Teacher is friendly
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
